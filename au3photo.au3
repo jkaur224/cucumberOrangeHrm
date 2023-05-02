@@ -1,0 +1,7 @@
+Sleep(1000)
+ControlFocus("Open","","Edit1")
+Sleep(1000)
+ControlSetText("Open","","Edit1","C:\QA\SeleniumWorkSpace\CucumberPomOrangeHRM")
+Sleep(5000)
+ControlClick("Open","","Button1")
+Sleep(6000)
